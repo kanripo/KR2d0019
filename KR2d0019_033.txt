@@ -1,0 +1,284 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定歷代紀事年表
+#+DATE: 2015-08-24 22:28:52.321453
+#+PROPERTY: ID KR2d0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
+<pb:KR2d0019_WYG_033-1a>¶
+　欽定四庫全書¶
+御定歴代紀事年表卷三十五¶
+　　(起庚午漢獻帝初平元年/止乙酉漢獻帝建安十年)　凡十六年¶
+　　表例説¶
+　　　(臣/)之樞謹按東漢宗室諸王東海王羨等至曹丕¶
+　　　稱帝俱降爲侯今不於丕稱帝之年見之而提叙¶
+　　　於諸王嗣封之年不予其降亦不没其實也¶
+<pb:KR2d0019_WYG_033-2a>¶
+¶
+<pb:KR2d0019_WYG_033-3a>¶
+¶
+<pb:KR2d0019_WYG_033-4a>¶
+¶
+<pb:KR2d0019_WYG_033-5a>¶
+¶
+<pb:KR2d0019_WYG_033-6a>¶
+¶
+<pb:KR2d0019_WYG_033-7a>¶
+¶
+<pb:KR2d0019_WYG_033-8a>¶
+¶
+<pb:KR2d0019_WYG_033-9a>¶
+¶
+<pb:KR2d0019_WYG_033-10a>¶
+¶
+<pb:KR2d0019_WYG_033-11a>¶
+¶
+<pb:KR2d0019_WYG_033-12a>¶
+¶
+<pb:KR2d0019_WYG_033-13a>¶
+¶
+<pb:KR2d0019_WYG_033-14a>¶
+¶
+<pb:KR2d0019_WYG_033-15a>¶
+¶
+<pb:KR2d0019_WYG_033-16a>¶
+¶
+<pb:KR2d0019_WYG_033-17a>¶
+¶
+<pb:KR2d0019_WYG_033-18a>¶
+¶
+<pb:KR2d0019_WYG_033-19a>¶
+¶
+<pb:KR2d0019_WYG_033-20a>¶
+¶
+<pb:KR2d0019_WYG_033-21a>¶
+¶
+<pb:KR2d0019_WYG_033-22a>¶
+¶
+<pb:KR2d0019_WYG_033-23a>¶
+¶
+<pb:KR2d0019_WYG_033-24a>¶
+¶
+<pb:KR2d0019_WYG_033-25a>¶
+¶
+<pb:KR2d0019_WYG_033-26a>¶
+¶
+<pb:KR2d0019_WYG_033-27a>¶
+¶
+<pb:KR2d0019_WYG_033-28a>¶
+¶
+<pb:KR2d0019_WYG_033-29a>¶
+¶
+<pb:KR2d0019_WYG_033-30a>¶
+¶
+<pb:KR2d0019_WYG_033-31a>¶
+¶
+<pb:KR2d0019_WYG_033-32a>¶
+¶
+<pb:KR2d0019_WYG_033-33a>¶
+¶
+<pb:KR2d0019_WYG_033-34a>¶
+¶
+<pb:KR2d0019_WYG_033-35a>¶
+¶
+<pb:KR2d0019_WYG_033-36a>¶
+¶
+<pb:KR2d0019_WYG_033-37a>¶
+¶
+<pb:KR2d0019_WYG_033-38a>¶
+¶
+<pb:KR2d0019_WYG_033-39a>¶
+¶
+<pb:KR2d0019_WYG_033-40a>¶
+¶
+<pb:KR2d0019_WYG_033-41a>¶
+¶
+<pb:KR2d0019_WYG_033-42a>¶
+¶
+<pb:KR2d0019_WYG_033-43a>¶
+¶
+<pb:KR2d0019_WYG_033-44a>¶
+¶
+<pb:KR2d0019_WYG_033-45a>¶
+¶
+<pb:KR2d0019_WYG_033-46a>¶
+¶
+<pb:KR2d0019_WYG_033-47a>¶
+¶
+<pb:KR2d0019_WYG_033-48a>¶
+¶
+<pb:KR2d0019_WYG_033-49a>¶
+¶
+<pb:KR2d0019_WYG_033-50a>¶
+¶
+<pb:KR2d0019_WYG_033-51a>¶
+¶
+<pb:KR2d0019_WYG_033-52a>¶
+¶
+<pb:KR2d0019_WYG_033-53a>¶
+¶
+<pb:KR2d0019_WYG_033-54a>¶
+¶
+<pb:KR2d0019_WYG_033-55a>¶
+¶
+<pb:KR2d0019_WYG_033-56a>¶
+¶
+<pb:KR2d0019_WYG_033-57a>¶
+¶
+<pb:KR2d0019_WYG_033-58a>¶
+¶
+<pb:KR2d0019_WYG_033-59a>¶
+¶
+<pb:KR2d0019_WYG_033-60a>¶
+¶
+<pb:KR2d0019_WYG_033-61a>¶
+¶
+<pb:KR2d0019_WYG_033-62a>¶
+¶
+<pb:KR2d0019_WYG_033-63a>¶
+¶
+<pb:KR2d0019_WYG_033-64a>¶
+¶
+<pb:KR2d0019_WYG_033-65a>¶
+¶
+<pb:KR2d0019_WYG_033-66a>¶
+¶
+<pb:KR2d0019_WYG_033-67a>¶
+¶
+<pb:KR2d0019_WYG_033-68a>¶
+¶
+<pb:KR2d0019_WYG_033-69a>¶
+¶
+<pb:KR2d0019_WYG_033-70a>¶
+¶
+<pb:KR2d0019_WYG_033-71a>¶
+¶
+<pb:KR2d0019_WYG_033-72a>¶
+¶
+<pb:KR2d0019_WYG_033-73a>¶
+¶
+<pb:KR2d0019_WYG_033-74a>¶
+¶
+<pb:KR2d0019_WYG_033-75a>¶
+¶
+<pb:KR2d0019_WYG_033-76a>¶
+¶
+<pb:KR2d0019_WYG_033-77a>¶
+¶
+<pb:KR2d0019_WYG_033-78a>¶
+¶
+<pb:KR2d0019_WYG_033-79a>¶
+¶
+<pb:KR2d0019_WYG_033-80a>¶
+¶
+<pb:KR2d0019_WYG_033-81a>¶
+¶
+<pb:KR2d0019_WYG_033-82a>¶
+¶
+<pb:KR2d0019_WYG_033-83a>¶
+¶
+<pb:KR2d0019_WYG_033-84a>¶
+¶
+<pb:KR2d0019_WYG_033-85a>¶
+¶
+<pb:KR2d0019_WYG_033-86a>¶
+¶
+<pb:KR2d0019_WYG_033-87a>¶
+¶
+<pb:KR2d0019_WYG_033-88a>¶
+¶
+<pb:KR2d0019_WYG_033-89a>¶
+¶
+<pb:KR2d0019_WYG_033-90a>¶
+¶
+<pb:KR2d0019_WYG_033-91a>¶
+¶
+<pb:KR2d0019_WYG_033-92a>¶
+¶
+<pb:KR2d0019_WYG_033-93a>¶
+¶
+<pb:KR2d0019_WYG_033-94a>¶
+¶
+<pb:KR2d0019_WYG_033-95a>¶
+¶
+<pb:KR2d0019_WYG_033-96a>¶
+¶
+<pb:KR2d0019_WYG_033-97a>¶
+¶
+<pb:KR2d0019_WYG_033-98a>¶
+¶
+<pb:KR2d0019_WYG_033-99a>¶
+¶
+<pb:KR2d0019_WYG_033-100a>¶
+¶
+<pb:KR2d0019_WYG_033-101a>¶
+¶
+<pb:KR2d0019_WYG_033-102a>¶
+¶
+<pb:KR2d0019_WYG_033-103a>¶
+¶
+<pb:KR2d0019_WYG_033-104a>¶
+¶
+<pb:KR2d0019_WYG_033-105a>¶
+¶
+<pb:KR2d0019_WYG_033-106a>¶
+¶
+<pb:KR2d0019_WYG_033-107a>¶
+¶
+<pb:KR2d0019_WYG_033-108a>¶
+¶
+<pb:KR2d0019_WYG_033-109a>¶
+¶
+<pb:KR2d0019_WYG_033-110a>¶
+¶
+<pb:KR2d0019_WYG_033-111a>¶
+¶
+<pb:KR2d0019_WYG_033-112a>¶
+¶
+<pb:KR2d0019_WYG_033-113a>¶
+¶
+<pb:KR2d0019_WYG_033-114a>¶
+¶
+<pb:KR2d0019_WYG_033-115a>¶
+¶
+<pb:KR2d0019_WYG_033-116a>¶
+¶
+<pb:KR2d0019_WYG_033-117a>¶
+¶
+<pb:KR2d0019_WYG_033-118a>¶
+¶
+<pb:KR2d0019_WYG_033-119a>¶
+¶
+<pb:KR2d0019_WYG_033-120a>¶
+¶
+<pb:KR2d0019_WYG_033-121a>¶
+¶
+<pb:KR2d0019_WYG_033-122a>¶
+¶
+<pb:KR2d0019_WYG_033-123a>¶
+¶
+<pb:KR2d0019_WYG_033-124a>¶
+¶
+<pb:KR2d0019_WYG_033-125a>¶
+¶
+<pb:KR2d0019_WYG_033-126a>¶
+¶
+<pb:KR2d0019_WYG_033-127a>¶
+¶
+<pb:KR2d0019_WYG_033-128a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2d0019_WYG_033-128b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+御定歴代紀事年表卷三十五¶

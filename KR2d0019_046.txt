@@ -1,0 +1,199 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定歷代紀事年表
+#+DATE: 2015-08-24 22:28:52.546211
+#+PROPERTY: ID KR2d0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九
+<pb:KR2d0019_WYG_046-1a>¶
+　欽定四庫全書¶
+御定歴代紀事年表卷四十九¶
+　　(起乙巳宋明帝泰始元年魏文成帝和平六年年止/己未宋順帝昇明三年四月魏孝文帝太和三  正)¶
+　　(月/)凡十四年有奇¶
+　　表例説¶
+　　　　見第四十六卷¶
+<pb:KR2d0019_WYG_046-2a>¶
+¶
+<pb:KR2d0019_WYG_046-3a>¶
+¶
+<pb:KR2d0019_WYG_046-4a>¶
+¶
+<pb:KR2d0019_WYG_046-5a>¶
+¶
+<pb:KR2d0019_WYG_046-6a>¶
+¶
+<pb:KR2d0019_WYG_046-7a>¶
+¶
+<pb:KR2d0019_WYG_046-8a>¶
+¶
+<pb:KR2d0019_WYG_046-9a>¶
+¶
+<pb:KR2d0019_WYG_046-10a>¶
+¶
+<pb:KR2d0019_WYG_046-11a>¶
+¶
+<pb:KR2d0019_WYG_046-12a>¶
+¶
+<pb:KR2d0019_WYG_046-13a>¶
+¶
+<pb:KR2d0019_WYG_046-14a>¶
+¶
+<pb:KR2d0019_WYG_046-15a>¶
+¶
+<pb:KR2d0019_WYG_046-16a>¶
+¶
+<pb:KR2d0019_WYG_046-17a>¶
+¶
+<pb:KR2d0019_WYG_046-18a>¶
+¶
+<pb:KR2d0019_WYG_046-19a>¶
+¶
+<pb:KR2d0019_WYG_046-20a>¶
+¶
+<pb:KR2d0019_WYG_046-21a>¶
+¶
+<pb:KR2d0019_WYG_046-22a>¶
+¶
+<pb:KR2d0019_WYG_046-23a>¶
+¶
+<pb:KR2d0019_WYG_046-24a>¶
+¶
+<pb:KR2d0019_WYG_046-25a>¶
+¶
+<pb:KR2d0019_WYG_046-26a>¶
+¶
+<pb:KR2d0019_WYG_046-27a>¶
+¶
+<pb:KR2d0019_WYG_046-28a>¶
+¶
+<pb:KR2d0019_WYG_046-29a>¶
+¶
+<pb:KR2d0019_WYG_046-30a>¶
+¶
+<pb:KR2d0019_WYG_046-31a>¶
+¶
+<pb:KR2d0019_WYG_046-32a>¶
+¶
+<pb:KR2d0019_WYG_046-33a>¶
+¶
+<pb:KR2d0019_WYG_046-34a>¶
+¶
+<pb:KR2d0019_WYG_046-35a>¶
+¶
+<pb:KR2d0019_WYG_046-36a>¶
+¶
+<pb:KR2d0019_WYG_046-37a>¶
+¶
+<pb:KR2d0019_WYG_046-38a>¶
+¶
+<pb:KR2d0019_WYG_046-39a>¶
+¶
+<pb:KR2d0019_WYG_046-40a>¶
+¶
+<pb:KR2d0019_WYG_046-41a>¶
+¶
+<pb:KR2d0019_WYG_046-42a>¶
+¶
+<pb:KR2d0019_WYG_046-43a>¶
+¶
+<pb:KR2d0019_WYG_046-44a>¶
+¶
+<pb:KR2d0019_WYG_046-45a>¶
+¶
+<pb:KR2d0019_WYG_046-46a>¶
+¶
+<pb:KR2d0019_WYG_046-47a>¶
+¶
+<pb:KR2d0019_WYG_046-48a>¶
+¶
+<pb:KR2d0019_WYG_046-49a>¶
+¶
+<pb:KR2d0019_WYG_046-50a>¶
+¶
+<pb:KR2d0019_WYG_046-51a>¶
+¶
+<pb:KR2d0019_WYG_046-52a>¶
+¶
+<pb:KR2d0019_WYG_046-53a>¶
+¶
+<pb:KR2d0019_WYG_046-54a>¶
+¶
+<pb:KR2d0019_WYG_046-55a>¶
+¶
+<pb:KR2d0019_WYG_046-56a>¶
+¶
+<pb:KR2d0019_WYG_046-57a>¶
+¶
+<pb:KR2d0019_WYG_046-58a>¶
+¶
+<pb:KR2d0019_WYG_046-59a>¶
+¶
+<pb:KR2d0019_WYG_046-60a>¶
+¶
+<pb:KR2d0019_WYG_046-61a>¶
+¶
+<pb:KR2d0019_WYG_046-62a>¶
+¶
+<pb:KR2d0019_WYG_046-63a>¶
+¶
+<pb:KR2d0019_WYG_046-64a>¶
+¶
+<pb:KR2d0019_WYG_046-65a>¶
+¶
+<pb:KR2d0019_WYG_046-66a>¶
+¶
+<pb:KR2d0019_WYG_046-67a>¶
+¶
+<pb:KR2d0019_WYG_046-68a>¶
+¶
+<pb:KR2d0019_WYG_046-69a>¶
+¶
+<pb:KR2d0019_WYG_046-70a>¶
+¶
+<pb:KR2d0019_WYG_046-71a>¶
+¶
+<pb:KR2d0019_WYG_046-72a>¶
+¶
+<pb:KR2d0019_WYG_046-73a>¶
+¶
+<pb:KR2d0019_WYG_046-74a>¶
+¶
+<pb:KR2d0019_WYG_046-75a>¶
+¶
+<pb:KR2d0019_WYG_046-76a>¶
+¶
+<pb:KR2d0019_WYG_046-77a>¶
+¶
+<pb:KR2d0019_WYG_046-78a>¶
+¶
+<pb:KR2d0019_WYG_046-79a>¶
+¶
+<pb:KR2d0019_WYG_046-80a>¶
+¶
+<pb:KR2d0019_WYG_046-81a>¶
+¶
+<pb:KR2d0019_WYG_046-82a>¶
+¶
+<pb:KR2d0019_WYG_046-83a>¶
+¶
+<pb:KR2d0019_WYG_046-84a>¶
+¶
+<pb:KR2d0019_WYG_046-85a>¶
+¶
+<pb:KR2d0019_WYG_046-86a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2d0019_WYG_046-86b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+御定歴代紀事年表卷四十九¶

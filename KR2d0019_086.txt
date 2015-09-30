@@ -1,0 +1,196 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定歷代紀事年表
+#+DATE: 2015-08-24 22:28:53.286993
+#+PROPERTY: ID KR2d0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十
+<pb:KR2d0019_WYG_086-1a>¶
+　欽定四庫全書¶
+御定歴代紀事年表卷九十¶
+　　(起丁未宋髙宗建炎元年五月/  止庚戌宋高宗建炎四年)凡三年有竒¶
+　　表例説¶
+　　　(臣/)之樞謹按徽欽北狩宋祚幾絶自髙宗南渡得¶
+　　　延百五十餘年之祀同符晉元是為南宋故以為¶
+　　　是卷之首¶
+<pb:KR2d0019_WYG_086-2a>¶
+¶
+<pb:KR2d0019_WYG_086-3a>¶
+¶
+<pb:KR2d0019_WYG_086-4a>¶
+¶
+<pb:KR2d0019_WYG_086-5a>¶
+¶
+<pb:KR2d0019_WYG_086-6a>¶
+¶
+<pb:KR2d0019_WYG_086-7a>¶
+¶
+<pb:KR2d0019_WYG_086-8a>¶
+¶
+<pb:KR2d0019_WYG_086-9a>¶
+¶
+<pb:KR2d0019_WYG_086-10a>¶
+¶
+<pb:KR2d0019_WYG_086-11a>¶
+¶
+<pb:KR2d0019_WYG_086-12a>¶
+¶
+<pb:KR2d0019_WYG_086-13a>¶
+¶
+<pb:KR2d0019_WYG_086-14a>¶
+¶
+<pb:KR2d0019_WYG_086-15a>¶
+¶
+<pb:KR2d0019_WYG_086-16a>¶
+¶
+<pb:KR2d0019_WYG_086-17a>¶
+¶
+<pb:KR2d0019_WYG_086-18a>¶
+¶
+<pb:KR2d0019_WYG_086-19a>¶
+¶
+<pb:KR2d0019_WYG_086-20a>¶
+¶
+<pb:KR2d0019_WYG_086-21a>¶
+¶
+<pb:KR2d0019_WYG_086-22a>¶
+¶
+<pb:KR2d0019_WYG_086-23a>¶
+¶
+<pb:KR2d0019_WYG_086-24a>¶
+¶
+<pb:KR2d0019_WYG_086-25a>¶
+¶
+<pb:KR2d0019_WYG_086-26a>¶
+¶
+<pb:KR2d0019_WYG_086-27a>¶
+¶
+<pb:KR2d0019_WYG_086-28a>¶
+¶
+<pb:KR2d0019_WYG_086-29a>¶
+¶
+<pb:KR2d0019_WYG_086-30a>¶
+¶
+<pb:KR2d0019_WYG_086-31a>¶
+¶
+<pb:KR2d0019_WYG_086-32a>¶
+¶
+<pb:KR2d0019_WYG_086-33a>¶
+¶
+<pb:KR2d0019_WYG_086-34a>¶
+¶
+<pb:KR2d0019_WYG_086-35a>¶
+¶
+<pb:KR2d0019_WYG_086-36a>¶
+¶
+<pb:KR2d0019_WYG_086-37a>¶
+¶
+<pb:KR2d0019_WYG_086-38a>¶
+¶
+<pb:KR2d0019_WYG_086-39a>¶
+¶
+<pb:KR2d0019_WYG_086-40a>¶
+¶
+<pb:KR2d0019_WYG_086-41a>¶
+¶
+<pb:KR2d0019_WYG_086-42a>¶
+¶
+<pb:KR2d0019_WYG_086-43a>¶
+¶
+<pb:KR2d0019_WYG_086-44a>¶
+¶
+<pb:KR2d0019_WYG_086-45a>¶
+¶
+<pb:KR2d0019_WYG_086-46a>¶
+¶
+<pb:KR2d0019_WYG_086-47a>¶
+¶
+<pb:KR2d0019_WYG_086-48a>¶
+¶
+<pb:KR2d0019_WYG_086-49a>¶
+¶
+<pb:KR2d0019_WYG_086-50a>¶
+¶
+<pb:KR2d0019_WYG_086-51a>¶
+¶
+<pb:KR2d0019_WYG_086-52a>¶
+¶
+<pb:KR2d0019_WYG_086-53a>¶
+¶
+<pb:KR2d0019_WYG_086-54a>¶
+¶
+<pb:KR2d0019_WYG_086-55a>¶
+¶
+<pb:KR2d0019_WYG_086-56a>¶
+¶
+<pb:KR2d0019_WYG_086-57a>¶
+¶
+<pb:KR2d0019_WYG_086-58a>¶
+¶
+<pb:KR2d0019_WYG_086-59a>¶
+¶
+<pb:KR2d0019_WYG_086-60a>¶
+¶
+<pb:KR2d0019_WYG_086-61a>¶
+¶
+<pb:KR2d0019_WYG_086-62a>¶
+¶
+<pb:KR2d0019_WYG_086-63a>¶
+¶
+<pb:KR2d0019_WYG_086-64a>¶
+¶
+<pb:KR2d0019_WYG_086-65a>¶
+¶
+<pb:KR2d0019_WYG_086-66a>¶
+¶
+<pb:KR2d0019_WYG_086-67a>¶
+¶
+<pb:KR2d0019_WYG_086-68a>¶
+¶
+<pb:KR2d0019_WYG_086-69a>¶
+¶
+<pb:KR2d0019_WYG_086-70a>¶
+¶
+<pb:KR2d0019_WYG_086-71a>¶
+¶
+<pb:KR2d0019_WYG_086-72a>¶
+¶
+<pb:KR2d0019_WYG_086-73a>¶
+¶
+<pb:KR2d0019_WYG_086-74a>¶
+¶
+<pb:KR2d0019_WYG_086-75a>¶
+¶
+<pb:KR2d0019_WYG_086-76a>¶
+¶
+<pb:KR2d0019_WYG_086-77a>¶
+¶
+<pb:KR2d0019_WYG_086-78a>¶
+¶
+<pb:KR2d0019_WYG_086-79a>¶
+¶
+<pb:KR2d0019_WYG_086-80a>¶
+¶
+<pb:KR2d0019_WYG_086-81a>¶
+¶
+<pb:KR2d0019_WYG_086-82a>¶
+¶
+<pb:KR2d0019_WYG_086-83a>¶
+¶
+<pb:KR2d0019_WYG_086-84a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2d0019_WYG_086-84b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+御定歴代紀事年表卷九十¶
